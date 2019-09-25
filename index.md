@@ -1,9 +1,14 @@
 ## Yuxin's Blog
 I am a passionate, conscience, self-motivated individual. Having worked muiltdisciplinary project several times, I am good at team work. Concerning about social trends simultaneously, I always keep a curious heart facing with changes.
 
-### Markdown
+### Other Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2017.2  ·Member of Honor School in Jiangnan University
+2017.10 ·Volunteered at the ‘Design for Transition’ international conference 
+2018.2  ·Volunteered in the international volunteer program in Bali
+2018.7  ·Participated in Dream-Space·Lifestyle Design in the 3D Printing Age Summer School at Jiangnan University
+2018.9  ·Got bonus of China Scholarship Council to study aboard 
+2019.1  ·Had project displayed in Design of Toronto exhibition
 
 ```markdown
 Syntax highlighted code block
